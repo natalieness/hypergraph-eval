@@ -1,0 +1,12 @@
+*.csv
+*.pdf
+*.xlsx
+
+*.DS_Store*
+*.claude*
+*__pycache__/
+
+*.png
+*.tif*
+*.svg
+
